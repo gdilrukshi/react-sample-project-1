@@ -1,0 +1,17 @@
+.icon-img {
+    width: 90px;
+    height: 90px;
+    margin-top: 120px;
+    margin-bottom: 10px;
+}
+
+.w-100 {
+    margin-left: 100px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #813AFE !important;
+    border-color: #813AFE !important;
+    width: 100% !important;
+}
